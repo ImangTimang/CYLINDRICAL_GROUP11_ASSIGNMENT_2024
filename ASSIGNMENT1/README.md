@@ -13,7 +13,7 @@ This folder contains the Kinematic Diagram, Parametric Table, MATLab code for As
 
 
 ###
-
+---------
 
 1.3 ILLUSTRATION FOR SPHERICAL MANIPULATOR WITH PARAMETRIC TABLE
 
