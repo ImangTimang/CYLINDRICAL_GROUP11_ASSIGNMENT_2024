@@ -13,7 +13,7 @@ This folder contains the Kinematic Diagram, Parametric Table, MATLab code for As
 
 ###
    
-![image](https://github.com/ImangTimang/CYLINDRICAL_GROUP11_ASSIGNMENT_2024/assets/157728066/ba5a6300-cd0b-48aa-8334-3abef9cd1543)
+![image](https://github.com/ImangTimang/CYLINDRICAL_GROUP11_ASSIGNMENT_2024/blob/main/ASSIGNMENT1/1.3%20Spherical%20Manipulator%20Illustration.jpg?raw=true)
 
 
 ###
