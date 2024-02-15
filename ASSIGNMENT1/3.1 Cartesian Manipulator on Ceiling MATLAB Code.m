@@ -33,7 +33,7 @@ Cartesian.teach
 
 %% Forward Kinemtics
 
-Af = ([5,pi/2,pi/2]); %joint_variables FK = Scara_V4.fkine(Af)
+Af = ([5,pi/2,pi/2]); %joint_variables FK =Cartesian.fkine(Af)
 
 
 
