@@ -33,6 +33,9 @@ This folder contains the Kinematic Diagram, Parametric Table, MATLab code for As
 GROUP COLLABORATORS:
 
 DATINGUINOO, JOHN EMMANUEL (imangtimang)
+
 FABUNAN, KIMBERLY C. (witch from mercury)
+
 MANALO, ANGEL
+
 MARANAN, RALPH NEIL
