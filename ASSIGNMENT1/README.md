@@ -35,6 +35,12 @@ This folder contains the Kinematic Diagram, Parametric Table, MATLab code for As
 
 ###
 
+2.2  MATLAB ILLUSTRATION OF SPHERICAL MANIPULATOR
+
+##
+
+![magigi](https://github.com/ImangTimang/CYLINDRICAL_GROUP11_ASSIGNMENT_2024/blob/main/ASSIGNMENT1/2.2%20SCARA%20-%20PRR%20Variant%20MATLAB%20Illustration.png?raw=true)
+
 3.3 ILLUSSTRATION FOR CARTESIAN MANIPULATOR WITH PARAMETRIC TABLE
 ![3 3 CARTESIAN MANIPULATOR - Illustration](https://github.com/ImangTimang/CYLINDRICAL_GROUP11_ASSIGNMENT_2024/assets/157549014/d6601192-5853-4828-a777-41ae2fabc4e6)
 
