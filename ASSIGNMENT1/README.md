@@ -62,4 +62,4 @@ FABUNAN, KIMBERLY C. (witch from mercury)
 
 MANALO, ANGEL G. (manaloanghell)
 
-MARANAN, RALPH NEIL (RNMaranan)
+MARANAN, RALPH NEIL M. (RNMaranan)
