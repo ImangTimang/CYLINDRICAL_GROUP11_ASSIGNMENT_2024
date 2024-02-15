@@ -1,4 +1,4 @@
-This folder contains the Kinematic Diagram, Parametric Table, MATLab code for Assignment1
+# This folder contains the Kinematic Diagram, Parametric Table, MATLab code for Assignment1
 
  ###
 
