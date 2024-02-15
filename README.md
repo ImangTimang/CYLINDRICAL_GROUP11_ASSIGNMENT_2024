@@ -6,7 +6,7 @@ This repository is dedicated for assignments related to Robotics 2.
 GROUP 11 MEMBERS:
 
 
-DATINGUINOO, JOHN EMMANUEL (PP)
+DATINGUINOO, JOHN EMANUEL (PP)
 
 FABUNAN. KIMBERLY C. (SUPERVISOR)
 
