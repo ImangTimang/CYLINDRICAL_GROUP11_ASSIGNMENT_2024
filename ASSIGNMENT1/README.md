@@ -50,6 +50,10 @@ This folder contains the Kinematic Diagram, Parametric Table, MATLab code for As
 
 ###
 
+![3 2 Cartesian Manipulator on Ceiling - MATLAB Illustration](https://github.com/ImangTimang/CYLINDRICAL_GROUP11_ASSIGNMENT_2024/assets/157549014/962cad5a-be3b-4a3e-81e5-aa1f7a42b4b4)
+
+###
+
 GROUP COLLABORATORS:
 
 DATINGUINOO, JOHN EMMANUEL A. (imangtimang)
