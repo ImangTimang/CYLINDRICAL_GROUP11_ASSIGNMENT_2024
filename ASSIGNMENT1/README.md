@@ -56,7 +56,7 @@
 
 GROUP COLLABORATORS:
 
-DATINGUINOO, JOHN EMMANUEL A. (imangtimang)
+DATINGUINOO, JOHN EMANUEL A. (imangtimang)
 
 FABUNAN, KIMBERLY C. (witch from mercury)
 
